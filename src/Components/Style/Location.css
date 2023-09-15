@@ -1,0 +1,15 @@
+.city-details {
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+    line-height: 40px;
+
+}
+
+.weather-details {
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 40px;
+}
